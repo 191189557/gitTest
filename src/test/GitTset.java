@@ -6,6 +6,6 @@ public class GitTset {
 		gitTset.test();
 	}
 	public void test() {
-		System.out.println("GitTset");
+		System.out.println("已经成功了");
 	}
 }	
