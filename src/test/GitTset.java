@@ -6,6 +6,6 @@ public class GitTset {
 		gitTset.test();
 	}
 	public void test() {
-		System.out.println("ccc");
+		System.out.println("cccc");
 	}
 }	
